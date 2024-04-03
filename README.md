@@ -1,4 +1,4 @@
-# xml-python
+# _xml-python_
 ---
 ## Hem aprés a parsear un document XML amb Python
 ---
@@ -22,7 +22,7 @@ Per poder printar-ho simplement fer un print amb tots els elements que hi hagi e
 ```
 print("<html><head><title>EJEMPLO</title></head>")
 ```
-També es pot crear un document HTML directament. Per fer-ho hem de fer el següent:
+__També es pot crear un document HTML directament. Per fer-ho hem de fer el següent:__
 
 **1.** Posar el nom del document que volem crear, la "w" significa Write, vol dire que sobrescriurà tot el que hi hagi en el document.
 ```
